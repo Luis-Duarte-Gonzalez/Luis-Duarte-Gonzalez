@@ -1,0 +1,4 @@
+- Hello! I am Luis Duarte Gonzalez, if the username didn't give it away.
+- I am a student at the University of Texas at Austin.
+- I am currently working towards a Bachelor in Electrical and Computer Engineering, with emphasis on Computer Architecture and Embedded Systems.
+- If you are looking to reach me, you can contact me through my email: luis.duarte.gonzalez23@gmail.com
